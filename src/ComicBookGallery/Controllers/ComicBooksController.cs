@@ -12,9 +12,9 @@ namespace ComicBookGallery.Controllers
         {
 
             ViewBag.SeriesTitle = "The Amazing Spider-Man";
-            ViewBag.issueNumber = 700;
-            ViewBag.description = "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's </p>";
-            ViewBag.artists = new String[]
+            ViewBag.IssueNumber = 700;
+            ViewBag.Description = "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's </p>";
+            ViewBag.Artists = new String[]
             {
                 "Script: Dan Slott",
                 "Pencils: Humberto Ramos",
